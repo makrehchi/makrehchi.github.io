@@ -3,7 +3,7 @@ layout: default
 title: "Masoud Makrechi"
 ---
 
-# Masoud Makrehchi  
+# Masoud Makrechi  
 
 _Ph.D, P.Eng, SMIEEE_  
 

@@ -5,7 +5,7 @@ title: "Masoud Makrehchi"
 
 # Masoud Makrehchi  
 _Ph.D, P.Eng, SMIEEE_  
-Academic & Industry Leader | Expert in Artificial Intelligenece, Generative AI, NLP, Machine Learning & Responsible Innovation & Strategy | Bridging Research and Executive Strategy  |  Author 
+Academic & Industry Leader  |  Expert in Artificial Intelligenece, Generative AI, NLP, Machine Learning & Responsible Innovation & Strategy  |  Bridging Research and Executive Strategy   |   Author 
 
 <img src="assets/img/photo_2025-08-06_20-21-58.jpg" alt="Masoud Makrehchi" width="50%">
 
@@ -64,4 +64,4 @@ My aim is to contribute to AI systems and knowledge that are not only advanced b
 
 - ![book](assets/img/mybook.jpg)
 
-  
+  <img src="assets/img/mybook.jpg" alt="Masoud Makrehchi" width="50%">

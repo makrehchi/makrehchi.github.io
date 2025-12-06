@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Masoud Makrehchi"
+title: "Masoud Makrechi"
 ---
 
 # Masoud Makrehchi  

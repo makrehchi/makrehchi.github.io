@@ -5,7 +5,8 @@ title: "Masoud Makrehchi"
 
 # Masoud Makrehchi  
 _Ph.D, P.Eng, SMIEEE_  
-Academic & Industry Leader · Generative AI, NLP, Machine Learning · Responsible Innovation & Strategy
+Academic & Industry Leader | Expert in Artificial Intelligenece, Generative AI, NLP, Machine Learning & Responsible Innovation & Strategy | Bridging Research and Executive Strategy  |  Author 
+
 <img src="assets/img/photo_2025-08-06_20-21-58.jpg" alt="Masoud Makrehchi" width="50%">
 
 ---

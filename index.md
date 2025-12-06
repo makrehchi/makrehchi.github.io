@@ -64,4 +64,4 @@ My aim is to contribute to AI systems and knowledge that are not only advanced b
 
 - ![book](assets/img/mybook.jpg)
 
-  <img src="assets/img/mybook.jpg" alt="Masoud Makrehchi" width="50%">
+  <img src="assets/img/mybook.jpg" alt="Masoud Makrehchi" width="10%">

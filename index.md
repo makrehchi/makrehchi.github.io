@@ -62,6 +62,6 @@ My aim is to contribute to AI systems and knowledge that are not only advanced b
 - [GitHub](https://github.com/makrehchi)
 - [My book](https://www.amazon.com/Efficient-Algorithm-Design-algorithms-programming/dp/B0DJ93DLYT/ref=sr_1_1?crid=1PSTJ401EIMHA&dib=eyJ2IjoiMSJ9.qeS1WSGk88LGeBwPmc1cMHl_381Hag-Thh20keELiHlA9z_kKTO79Uxjbn0kFE77mbz58uI66soQR7NkELvtWvhLoCLUySVyzLxytTCD327OybDi6zkUs-EFJp0KMCziycH_wnTfAGMLHtUzoLXq_BfwgTW317CyQdbBVTpWEcO1QJZLWotCiOi1GPVAakPknlIggvvXJCdfziQ5ZLkzln9haQ2LksU6_CahvCDnoNk.trsqtNA1QDbwhr3qGd2ZHt10bugfH2ZQfnQvTEj2TD0&dib_tag=se&keywords=Efficient+Algorithm+Design&qid=1730959255&sprefix=efficient+algorithm+design%2Caps%2C486&sr=8-1)
 
-- ![Masoud Makrehchi](assets/img/mybook.jpg)
+- ![Masoud Makrehchi](assets/img/mybook.jpg)(https://www.amazon.com/Efficient-Algorithm-Design-algorithms-programming/dp/B0DJ93DLYT/ref=sr_1_1?crid=1PSTJ401EIMHA&dib=eyJ2IjoiMSJ9.qeS1WSGk88LGeBwPmc1cMHl_381Hag-Thh20keELiHlA9z_kKTO79Uxjbn0kFE77mbz58uI66soQR7NkELvtWvhLoCLUySVyzLxytTCD327OybDi6zkUs-EFJp0KMCziycH_wnTfAGMLHtUzoLXq_BfwgTW317CyQdbBVTpWEcO1QJZLWotCiOi1GPVAakPknlIggvvXJCdfziQ5ZLkzln9haQ2LksU6_CahvCDnoNk.trsqtNA1QDbwhr3qGd2ZHt10bugfH2ZQfnQvTEj2TD0&dib_tag=se&keywords=Efficient+Algorithm+Design&qid=1730959255&sprefix=efficient+algorithm+design%2Caps%2C486&sr=8-1)
 
   

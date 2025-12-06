@@ -6,7 +6,7 @@ title: "Masoud Makrehchi"
 # Masoud Makrehchi  
 ![Masoud Makrehchi](assets/img/photo_2025-08-06_20-21-58.jpg)
 <p align="center">
-  <img src="assets/img/profile.jpg" alt="Masoud Makrehchi" width="20">
+  <img src="assets/img/photo_2025-08-06_20-21-58.jpg" alt="Masoud Makrehchi" width="20">
 </p>
 _Ph.D, P.Eng, SMIEEE_  
 

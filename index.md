@@ -54,9 +54,9 @@ My aim is to contribute to AI systems and knowledge that are not only advanced b
 
 ## Links
 
-- [My Webpage](https://www.makrehchi.com)
+- [My Webpage](www.makrehchi.com)
 - [My Publications](https://sites.google.com/site/makrehchi/publications)
-- [LinkedIn](https://www.linkedin.com/in/masoud-makrehchi/)
+- [LinkedIn](https://www.linkedin.com/in/makrehchi/)
 - [Google Scholar](https://scholar.google.com/citations?user=StSRgHYAAAAJ&hl=en)
 - [Medium](https://medium.com/@makrehchi)
 - [GitHub](https://github.com/makrehchi)
